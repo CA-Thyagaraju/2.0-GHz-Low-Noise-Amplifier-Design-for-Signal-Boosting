@@ -21,7 +21,7 @@ The LNA was designed to:
 - **Stability Analysis:** Mu and Mu’ factors simulated in ADS
 - **Biasing:** Active biasing network for thermal and electrical stability
 - **Matching Networks:** Lumped-element IMN & OMN designed using Smith Chart
-- **Simulation Tools:** Keysight ADS 2020 with gain & NF circles, load-pull analysis
+- **Simulation Tools:** Keysight ADS 2023 with gain & NF circles, load-pull analysis
 
 ## 🧪 Design Methodology
 
