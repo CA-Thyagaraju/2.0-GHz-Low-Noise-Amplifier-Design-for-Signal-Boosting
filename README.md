@@ -142,5 +142,5 @@ This demonstrates an effective balance between **low noise performance, gain, an
 **Achutha Thyagaraju**  
 Electrical Engineering  
 NIT Rourkela  
-
++91 82961 71669
 📧 achuthathyagaraju@gmail.com
