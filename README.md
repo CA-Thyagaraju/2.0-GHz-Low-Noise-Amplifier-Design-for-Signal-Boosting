@@ -27,7 +27,7 @@ The LNA was designed to:
 
 ---
 
-# ⚙️ Design Features
+# Design Features
 
 ### Transistor Selection
 
@@ -143,5 +143,4 @@ This demonstrates an effective balance between **low noise performance, gain, an
 Electrical Engineering  
 NIT Rourkela  
 +91 82961 71669
-
 achuthathyagaraju@gmail.com
