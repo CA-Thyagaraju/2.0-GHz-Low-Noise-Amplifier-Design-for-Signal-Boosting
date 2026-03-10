@@ -6,7 +6,7 @@ The objective of the design was to achieve **high gain, low noise figure, and un
 
 ---
 
-# 📡 Project Overview
+# Project Overview
 
 The LNA was designed to:
 
@@ -76,7 +76,7 @@ This ensured the source and load impedances were transformed close to their **op
 
 ---
 
-# 🧪 Design Methodology
+# Design Methodology
 
 The LNA was developed using the following RF design workflow:
 
@@ -115,7 +115,7 @@ Multiple simulation passes were performed to optimize:
 
 ---
 
-# 📊 Final Performance
+# Final Performance
 
 The final LNA achieved:
 
@@ -128,7 +128,7 @@ This demonstrates an effective balance between **low noise performance, gain, an
 
 ---
 
-# 📖 References
+# References
 
 - Gonzalez, G. *Microwave Transistor Amplifiers: Analysis and Design*  
 - Keysight **Advanced Design System (ADS) Documentation**  
@@ -137,10 +137,11 @@ This demonstrates an effective balance between **low noise performance, gain, an
 
 ---
 
-# 📬 Contact
+# Contact
 
 **Achutha Thyagaraju**  
 Electrical Engineering  
 NIT Rourkela  
 +91 82961 71669
-📧 achuthathyagaraju@gmail.com
+
+achuthathyagaraju@gmail.com
